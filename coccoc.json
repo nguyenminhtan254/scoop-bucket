@@ -1,0 +1,18 @@
+{
+    "version": "latest",
+    "description": "Coc Coc Browser - A Chromium-based browser for Vietnamese users",
+    "homepage": "https://coccoc.com",
+    "license": "Freeware",
+    "url": "https://files.coccoc.com/browser/download/vi?plat=win&arch=x64",
+    "hash": "skip",
+    "installer": {
+        "file": "CocCocSetup.exe",
+        "args": "/silent /install"
+    },
+    "shortcuts": [
+        [
+            "Cốc Cốc.exe",
+            "Cốc Cốc"
+        ]
+    ]
+}
