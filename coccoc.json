@@ -3,7 +3,7 @@
     "description": "Coc Coc Browser - A Chromium-based browser for Vietnamese users",
     "homepage": "https://coccoc.com",
     "license": "Freeware",
-    "url": "https://files.coccoc.com/browser/download/vi?plat=win&arch=x64",
+    "url": "https://github.com/nguyenminhtan254/scoop-bucket/releases/download/v.2.9.3.21/CocCocSetup.exe",
     "hash": "skip",
     "installer": {
         "file": "CocCocSetup.exe",
