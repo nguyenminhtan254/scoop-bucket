@@ -7,7 +7,7 @@
     "hash": "e30144bd38eaa75cd7f966270bc88d09b55201eba662445b404aa452ba9c92f5",
     "installer": {
         "file": "CocCocSetup.exe",
-        "args": "/silent /install"
+        "args": " /install"
     },
     "shortcuts": [
         [
